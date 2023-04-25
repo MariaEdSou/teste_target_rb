@@ -14,7 +14,7 @@ public class Ativ1 {
             soma = soma + K;
         }
 
-        System.out.println(soma);
+        System.out.println("SOMA = " + soma);
     }
 
 
